@@ -3,7 +3,7 @@ I’m currently pursuing my B.Tech Final Year in Electronics and Communication E
 ## 🚀 Skills & Technologies
 * **Programming Languages** : Python , C/C++ 
 * **Web Development** : HTML, CSS, JavaScript, PHP, Bootstrap
-* **Frameworks & Tools** : TensorFlow, Keras 
+* **Frameworks & Tools** : TensorFlow, Jupyter Notebook , Visual Studio Code
 * **Databases** : MySQL , SQL
 * **Version Control** : Git, GitHub
 * **Deep Learning** : Convolutional Neural Networks (CNN), Data Augmentation
