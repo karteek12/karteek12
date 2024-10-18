@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Akula Santosh Karteek !
 I’m currently pursuing my B.Tech Final Year in Electronics and Communication Engineering (ECE) at the National Institute of Technology, Patna, and I’m passionate about leveraging technology to solve real-world problems. My interests lie in software development , data analysis.
 ## 🚀 Skills & Technologies
-* **Programming Languages** : Python , C/C++ 
+* **Programming Languages** : Python , C++ 
 * **Web Development** : HTML, CSS, JavaScript, PHP .
 * **Frameworks** : TensorFlow , Bootstrap
 * **Tools** : Jupyter Notebook , Visual Studio Code
