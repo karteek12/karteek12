@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Santosh Karteek !
 
-I am a passionate Full Stack Developer with hands-on experience in building scalable web applications using **Django, Django REST Framework, Next.js, React.js, and Docker**. I graduated from **NIT Patna in May 2025**.
+I am a passionate Full Stack Developer with hands-on experience in building scalable web applications using **Django, Django REST Framework, Next.js, React.js, and Docker**. I recently graduated from **NIT Patna in May 2025**.
 
 Over the past few months, I have contributed to real-world projects, including revamping legacy codebases, designing responsive landing pages from Figma, and developing full-stack features.
 
