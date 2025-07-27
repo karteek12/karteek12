@@ -11,6 +11,12 @@ With a solid foundation in **Data Structures, Algorithms, and Object-Oriented Pr
 
 ---
 
+## 📈 GitHub Stats (Company Contributions)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santoshinmobiux&theme=radical&hide_border=true" alt="Company GitHub Streak" height="160"/>
+</p>
+
 ## 🛠️ Skills & Technologies
 
 ### **Programming & Scripting Languages**  
