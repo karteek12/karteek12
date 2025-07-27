@@ -16,6 +16,7 @@ With a solid foundation in **Data Structures, Algorithms, and Object-Oriented Pr
 ### **Programming & Scripting Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Full Stack Development**  
@@ -41,10 +42,6 @@ With a solid foundation in **Data Structures, Algorithms, and Object-Oriented Pr
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Core Skills**  
-`Data Structures` `Object Oriented Programming`
-
----
 
 ## 💡 Achievements
 * **Top 1% in NPTEL Course** - Cloud Computing by IIT Kharagpur
