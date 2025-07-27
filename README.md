@@ -1,5 +1,12 @@
-## 👋 Hello, I'm Akula Santosh Karteek !
-I’m currently pursuing my B.Tech Final Year in Electronics and Communication Engineering at the National Institute of Technology, Patna, and I’m passionate about leveraging technology to solve real-world problems. My interests lie in software development , data analysis.
+## 👋 Hello, I'm Santosh Karteek Akula !
+I am a passionate Full Stack Developer with hands-on experience in building scalable web applications using Django, Django REST Framework, Next.js, React.js and Docker. 
+
+Over the past few months, I have contributed to real-world projects including revamping legacy codebases, designing responsive landing pages from Figma and developing full-stack features.
+
+With a solid foundation in Data Structures, Algorithms and Object-Oriented Programming, I bring strong problem-solving skills and a keen eye for clean and maintainable code.
+
+If my work resonates with you, let’s connect and explore how we can collaborate.
+
 ## 🚀 Skills & Technologies
 * **Programming & Scripting Languages** : Python , C++ , SQL
 * **Web Development** : HTML, CSS, JavaScript, React JS, PHP .
