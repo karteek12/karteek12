@@ -1,9 +1,9 @@
-## 👋 Hello, I'm Santosh Karteek Akula !
-I am a passionate Full Stack Developer with hands-on experience in building scalable web applications using Django, Django REST Framework, Next.js, React.js and Docker. 
+## 👋 Hello, I'm Santosh Karteek !
+I am a passionate Full Stack Developer with hands-on experience in building scalable web applications using Django, Django REST Framework, Next.js, React.js, and Docker. I graduated from NIT Patna in May,2025.
 
-Over the past few months, I have contributed to real-world projects including revamping legacy codebases, designing responsive landing pages from Figma and developing full-stack features.
+Over the past few months, I have contributed to real-world projects, including revamping legacy codebases, designing responsive landing pages from Figma, and developing full-stack features.
 
-With a solid foundation in Data Structures, Algorithms and Object-Oriented Programming, I bring strong problem-solving skills and a keen eye for clean and maintainable code.
+With a solid foundation in Data Structures, Algorithms, and Object-Oriented Programming, I bring strong problem-solving skills and a keen eye for clean, maintainable code.
 
 If my work resonates with you, let’s connect and explore how we can collaborate.
 
