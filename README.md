@@ -7,8 +7,6 @@ Over the past few months, I have contributed to real-world projects, including r
 With a solid foundation in **Data Structures, Algorithms, and Object-Oriented Programming**, I bring strong problem-solving skills and a keen eye for clean, maintainable code.
 
 > **Note:** While I may have fewer recent contributions here, I’ve been actively contributing to my company’s GitHub repositories over the past 2 months, working on production-grade projects.  
-> 👉 **[View My Company GitHub Contributions](https://github.com/santoshinmobiux)**
-
 ---
 
 ## 📈 GitHub Stats (Company Contributions)
