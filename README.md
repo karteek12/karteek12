@@ -9,12 +9,6 @@ With a solid foundation in **Data Structures, Algorithms, and Object-Oriented Pr
 > **Note:** While I may have fewer recent contributions here, I’ve been actively contributing to my company’s GitHub repositories over the past 2 months through my company's Github profile, working on production-grade projects.  
 ---
 
-## 📈 GitHub Stats (Company Contributions)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=santoshinmobiux&theme=radical&hide_border=true" alt="Company GitHub Streak" height="160"/>
-</p>
-
 ## 🛠️ Skills & Technologies
 
 ### **Programming & Scripting Languages**  
